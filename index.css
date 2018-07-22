@@ -53,12 +53,18 @@ ul.navbar-nav li a.page-scroll:hover{
 
 .header{
 	text-align: center;	
-	background: url(https://source.unsplash.com/qaoNLVMb4lw/1600x900);
+	background: url('images/background.jpg');
 	background-size: cover;
 	background-position: center;
 	height: 100vh;
 	width:100%;
 	color: white; 
+}
+
+
+#logo img {
+	width: 75px;
+	margin-top: -7px;
 }
 
 .head-text{
